@@ -14,8 +14,14 @@ $ git init Initialized empty Git repository in /Users/skills/Projects/recipe-rep
 var myVar = "Hello, world!";
 
 
+- [x] Create a new branch
+- [x] Add a Markdown file
+- [ ] Complete the Markdown tutorial
 
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
